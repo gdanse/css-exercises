@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../git_test"
+		},
+		{
+			"path": "../../../odin-links-and-images"
+		},
+		{
+			"path": "../../../odin-recipes"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css-exercises"
+	}
+}
